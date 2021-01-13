@@ -34,7 +34,7 @@
                         <barButtonItem key="rightBarButtonItem" systemItem="add" id="Kmm-XD-83U">
                             <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                             <connections>
-                                <action selector="addButtonPressed:" destination="9Lf-TP-xPH" id="h4Z-KX-Xd0"/>
+                                <action selector="addButtonPressed:" destination="9Lf-TP-xPH" id="eQk-OI-LHd"/>
                             </connections>
                         </barButtonItem>
                     </navigationItem>
